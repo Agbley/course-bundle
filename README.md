@@ -11,14 +11,13 @@
 ## 📁 Features implemented
 - Hero Section - Compelling value proposition with gradient background
 - Course Bundle Overview - 5 detailed courses with pricing and benefits
-- Filter, search, sort
 - Why This Bundle? - Key benefits and unique selling points
 - Instructor Highlights - Professional profiles with credentials
 - CTA Footer - Strong call-to-action with pricing and guarantees
 
 ## 📌 Design highlights
 - Professional navy blue and orange color scheme for trust and conversion
-- Generated custom images for hero section and instructor profiles
+- Custom images for hero section and instructor profiles
 - Responsive design with modern gradients and elegant shadows
 - Strategic CTAs throughout to maximize conversions
 - Clean typography and card-based layouts
