@@ -1,4 +1,4 @@
-# 🛍️ Product Dashboard
+# 🛍️ Landing Page
 
 ## 🔧 Setup Instructions
 1. Clone the repo
@@ -6,7 +6,7 @@
 3. Run `npm run dev`
 
 ## 🌐 Live Link
-[Hosted on Vercel](https://product-dashboard-woad.vercel.app/)
+[Hosted on Vercel](https://course-bundle-xi.vercel.app/)
 
 ## 📁 Features implemented
 - Hero Section - Compelling value proposition with gradient background
